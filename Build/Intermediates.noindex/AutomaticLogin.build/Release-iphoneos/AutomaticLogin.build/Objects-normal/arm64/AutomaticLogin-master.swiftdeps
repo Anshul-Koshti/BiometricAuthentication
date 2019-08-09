@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.1 (swiftlang-1100.0.43.3 clang-1100.0.26.3)"
+options: "d4100948f0b41a4ede23e8152f6477f1"
+build_time: [1564043075, 224610000]
+inputs:
+  "/Users/anshul/Desktop/practice swift/AutomaticLogin/AutomaticLogin/ViewController.swift": [9223372036, 854775807]
+  "/Users/anshul/Desktop/practice swift/AutomaticLogin/AutomaticLogin/AppDelegate.swift": [9223372036, 854775807]
+  "/Users/anshul/Desktop/practice swift/AutomaticLogin/AutomaticLogin/SceneDelegate.swift": [9223372036, 854775807]
